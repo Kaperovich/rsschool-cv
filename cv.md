@@ -1,6 +1,6 @@
 # Ilya Kasperovich
 ## Contacts
-* Phone +375 29 102 89 39
+* Phone +375 29 102 89 34
 * Email: ilya.kasperovich.200288@gmail.com
 * GitHub: [Kaperovich](адрес "https://github.com/Kaperovich")
 * Location: Minsk, Belarus

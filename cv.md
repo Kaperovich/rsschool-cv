@@ -17,6 +17,6 @@ No work experience
 * GitHub
 # Education
 * **University**: Belarusian National Technical University
-* **Courses**:ru.code-basics.com: HTML/CSS; learn.javascript.ru
+* **Courses**: ru.code-basics.com: HTML/CSS; learn.javascript.ru
 # English
 * A2
